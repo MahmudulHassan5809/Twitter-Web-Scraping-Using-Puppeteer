@@ -18,7 +18,8 @@
     3 You Can Get Other User Information just write the user name in index.js.It will save user data in user.json file
     	let details = await twitter.getUser('sah75official');
 
-    4 You can get perticuler user's tweets you can also define number of tweets you want.Just give the username and count number in index.js.It will save data in tweets.json file
+    4 You can get perticuler user's tweets you can also define number of tweets you want.
+    Just give the username and count number in index.js.It will save data in tweets.json file
     	await twitter.getTweets('sah75official',50);
 
 

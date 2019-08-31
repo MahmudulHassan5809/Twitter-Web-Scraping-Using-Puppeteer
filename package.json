@@ -1,0 +1,14 @@
+{
+  "name": "twitterscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mahmudul Hassan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
